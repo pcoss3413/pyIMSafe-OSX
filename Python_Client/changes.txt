@@ -1,0 +1,29 @@
+IMSafe 2.1 Changes
+- Output is now base64 encoded
+
+IMSafe 2.0  Changes
+- Different encryption algorithm used
+- Fixed decryption error bug
+
+IMSafe 1.0 Changes
+- Threaded update no longer causes crash
+- Fixed dropped message bug
+
+IMSafe 0.6 Beta Changes
+
+- Timestamp in chat is in a smaller font
+- Removed the "connect" button from the settings dialog
+- Added sound options
+- Added a different sound for sending than recieving
+
+IMSafe 0.5 Beta Changes
+
+- Better network error handling
+- "http://" added to given url if necessary, instead of raising an error
+- Different text highlights for screenames of other people's messages
+
+IMSafe 0.4 Beta Changes
+
+- Can now connect to a chatroom
+- Screenames are  now highlighted in chat
+- Fixed a bug where Ctrl+a would select all text and not allow you to deselect.
